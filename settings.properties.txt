@@ -1,0 +1,4 @@
+repository = textfiles
+student = student.txt
+assignment = assignment.txt
+grade = grade.txt
